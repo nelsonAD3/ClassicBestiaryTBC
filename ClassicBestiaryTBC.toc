@@ -1,0 +1,8 @@
+## Interface: 20505
+## Title: Classic Bestiary TBC
+## Notes: Displays known creature ability info in tooltips. Updated for TBC Anniversary.
+## Version: 2.0.0
+## IconTexture: Interface/Icons/Spell_Shadow_SummonFelhunter
+
+db.lua
+ClassicBestiaryTBC.lua

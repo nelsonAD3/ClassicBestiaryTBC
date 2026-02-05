@@ -12,6 +12,7 @@ Because of this, some ability tooltips may display incorrect values or might be 
 
 Inspired by https://wago.io/q1YbxB5Pz - tooltip effect code has been adapted from there.
 
-Repo: https://github.com/icheatatlan/ClassicBestiary
+Repo: https://github.com/nelsonAD3/ClassicBestiaryTBC
 
-Edited for TBC Anniversary by nelsonAD3, Nelthor @ Dreamscythe
+Edited for TBC by Nelthor @ Dreamscythe
+
