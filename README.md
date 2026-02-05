@@ -14,3 +14,4 @@ Inspired by https://wago.io/q1YbxB5Pz - tooltip effect code has been adapted fro
 
 Repo: https://github.com/icheatatlan/ClassicBestiary
 
+Edited for TBC Anniversary by nelsonAD3, Nelthor @ Dreamscythe
